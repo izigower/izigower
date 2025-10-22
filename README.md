@@ -31,9 +31,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
 </div>
 
@@ -46,21 +46,21 @@
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop" height="40" alt="photoshop logo" />
   <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=premiere" height="40" alt="premiere logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=notion" height="40" alt="notion logo" />
   <img width="12" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" height="40" alt="vscode logo" />
   <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress" height="40" alt="wordpress logo" />
+  <img width="12" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=codepen" height="40" alt="codepen logo" />
   <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mermaid" height="40" alt="mermaid logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali" height="40" alt="kali logo" />
   <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mistral" height="40" alt="mistral logo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" height="40" alt="raspberrypi logo" />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sketchup" height="40" alt="sketchup logo" />
   <img width="12" />
 </div>
 
