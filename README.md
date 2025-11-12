@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Solidity<br>🎯 Goals: Leave in japan <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Solidity<br>🎯 Goals: Leave in japan </p>
 
 ###
 
